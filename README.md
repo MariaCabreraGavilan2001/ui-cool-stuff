@@ -1,2 +1,2 @@
-# ux-cool-stuff
-Ux (mosstly tailwind) cool stuff 
+# ui-cool-stuff
+ui (mosstly tailwind) cool stuff 
